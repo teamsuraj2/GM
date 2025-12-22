@@ -1,9 +1,9 @@
-# Copyright (c) 2025 Telegram:- @WTF_Phantom <DevixOP>
-# Location: Supaul, Bihar 
+# Copyright (c) 2025 Telegram:- @TwsAssociation <TwsAssociation>
+# Location: up, 
 #
 # All rights reserved.
 #
-# This code is the intellectual property of @WTF_Phantom.
+# This code is the intellectual property of TwsAssociation.
 # You are not allowed to copy, modify, redistribute, or use this
 # code for commercial or personal projects without explicit permission.
 #
@@ -17,7 +17,7 @@
 # - Selling or using commercially
 #
 # Contact for permissions:
-# Email: king25258069@gmail.com
+# @TwsAssociation
 
 
 import html
