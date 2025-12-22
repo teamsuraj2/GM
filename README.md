@@ -1,43 +1,18 @@
-# 🤖 ʀʏᴀɴ ᴀɪ ʙᴀᴋᴀ ɢᴀᴍᴇ & ᴄʜᴀᴛʙᴏᴛ  
-<p align="center">⚡ ʏᴇ ᴀᴅᴠᴀɴᴄᴇ ᴀɪ ɢᴀᴍᴇʙᴏᴛ ʜᴀɪ ⚡</p>
+# 🤖  ᴀɪ ɢᴀᴍᴇ & ᴄʜᴀᴛʙᴏᴛ  
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
 
 <h1 align="center">🚩🚩 𝐉𝐀𝐈 𝐁𝐀𝐉𝐑𝐀𝐍𝐆 𝐁𝐀𝐋𝐈 🚩🚩</h1>
-​<p align="center">
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=F7006A&width=650&lines=🍁🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗥𝗬𝗔𝗡;🤖+𝗔𝗗𝗩𝗔𝗡𝗖𝗘+𝗔𝗜+𝗖𝗛𝗔𝗧+𝗦𝗬𝗦𝗧𝗘𝗠;⚡+𝗔𝗨𝗧𝗢+𝗥𝗘𝗦𝗣𝗢𝗡𝗗𝗘𝗥+𝗕𝗢𝗧">
-</p>
-​<h1 align="center">
-
-
-<a href="https://t.me/WTF_Phantom">
-<img src="https://files.catbox.moe/gyi5iu.jpg" alt="RyanBaka Bot" width="400" style="border-radius: 20px; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);">
-</a>
-
-
-🫧 𝐑𝐲𝐚𝐧𝐁𝐚𝐤𝐚 𝐁𝐨𝐭 ×͜࿐
-
-
-
-
-<i>𝙰 𝙿𝚛𝚘𝚓𝚎𝚌𝚝 𝙱𝚢 <b>𝐒ʜʀᴇʏᴀ𝐁ᴏᴛꜱ</b></i>
-</h1>
-​<p align="center">
-<b>Advanced AI-Powered RPG, Economy & Management Bot.</b>
-</p>
+​
 <p align="center"> ​⚙️ ─「 𝐃𝐄𝐏𝐋𝐎𝐘 」─
 ​<h3 align="center">🚀 Deploy On Heroku</h3>
 ​<p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/DevixOP/RyanBakaBot">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/teamsuraj2/GM">
 <img src="https://img.shields.io/badge/⚡%20Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="250">
 </a>
 </p>
 ​<h3 align="center">🌐 Deploy On Render</h3>
 ​<p align="center">
-<a href="https://render.com/deploy?repo=https://github.com/DevixOP/RyanBakaBot">
+<a href="https://render.com/deploy?repo=https://github.com/teamsuraj2/GM">
 <img src="https://img.shields.io/badge/🚀%20Deploy%20To%20Render-orange?style=for-the-badge&logo=render" width="250">
 </a>
 </p>
@@ -89,8 +64,8 @@ LOGGER_ID Channel ID for Logs (e.g. -100xxxx) ✅
 ​If you want to run the bot on your own PC or VPS:
 # Clone Repo
 ```bash
-git clone [https://github.com/DevixOP/RyanBakaBot](https://github.com/DevixOP/RyanBakaBot)
-cd RyanBakaBot
+git clone [https://github.com/teamsuraj2/GM](https://github.com/teamsuraj2/GM)
+cd GM
 ```
 # Install Dependencies
 ```bash
@@ -100,8 +75,4 @@ pip install -r requirements.txt
 ```bash
 python3 Ryan.py
 ```
-<h3 align="center">
-Made with ❤️ by <a href="https://t.me/WTF_Phantom">𝐑𝐲𝐚𝐧</a>
 
-Owner of <b>ShreyaBots</b>
-</h3>
