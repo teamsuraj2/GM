@@ -1,11 +1,11 @@
 {
-  "name": "RyanBaka Bot",
+  "name": "Marie Bot",
   "description": "The Ultimate Aesthetic Telegram Economy & Game Bot.",
-  "logo": "https://telegra.ph/file/5e5480760e412bd402e88.jpg",
+  "logo": "https://litter.catbox.moe/ou5u9x.jpg",
   "keywords": [
     "telegram", "bot", "python", "economy", "game", "ai"
   ],
-  "repository": "https://github.com/YourUsername/RyanBakaBot",
+  "repository": "https://github.com/teamsuraj2/GM",
   "env": {
     "BOT_TOKEN": { "description": "Telegram Bot Token", "required": true },
     "MONGO_URI": { "description": "MongoDB Connection String", "required": true },
