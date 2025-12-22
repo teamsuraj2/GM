@@ -111,7 +111,7 @@ async def shop_menu(update: Update, context: ContextTypes.DEFAULT_TYPE):
         bal = format_money(user['balance'])
         
         text = (
-            f"🛒 <b>𝐁𝐚𝐤𝐚 𝐌𝐚𝐫𝐤𝐞𝐭𝐩𝐥𝐚𝐜𝐞</b>\n\n"
+            f"🛒 <b>𝐌𝐚𝐫𝐢𝐞 𝐌𝐚𝐫𝐤𝐞𝐭𝐩𝐥𝐚𝐜𝐞</b>\n\n"
             f"👤 <b>Customer:</b> {get_mention(user)}\n"
             f"👛 <b>Wallet:</b> <code>{bal}</code>\n\n"
             f"<i>Select a category to browse our goods!</i>"
