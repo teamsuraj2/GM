@@ -36,13 +36,13 @@ UPSTREAM_REPO = os.getenv("UPSTREAM_REPO", "")
 GIT_TOKEN = os.getenv("GIT_TOKEN", "")
 
 # Images & Links
-START_IMG_URL = os.getenv("START_IMG_URL", "https://telegra.ph/file/5e5480760e412bd402e88.jpg") 
-HELP_IMG_URL = os.getenv("HELP_IMG_URL", "https://files.catbox.moe/5g37fy.jpg") 
-WELCOME_IMG_URL = os.getenv("WELCOME_IMG_URL", "https://files.catbox.moe/gyi5iu.jpg") 
+START_IMG_URL = os.getenv("START_IMG_URL", "https://litter.catbox.moe/ou5u9x.jpg") 
+HELP_IMG_URL = os.getenv("HELP_IMG_URL", "https://litter.catbox.moe/ou5u9x.jpg") 
+WELCOME_IMG_URL = os.getenv("WELCOME_IMG_URL", "https://litter.catbox.moe/xicw09.jpg") 
 
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/ShreyaBotSupport")
-SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/ShreyaBots")
-OWNER_LINK = os.getenv("OWNER_LINK", "https://t.me/WTF_Phantom")
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/TwsSupportGroup")
+SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/TwsAssociation")
+OWNER_LINK = os.getenv("OWNER_LINK", "https://t.me/TwsAssociation")
 
 # IDs
 try: LOGGER_ID = int(os.getenv("LOGGER_ID", "0").strip())
